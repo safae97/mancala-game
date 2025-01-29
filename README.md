@@ -93,7 +93,7 @@ For a detailed explanation of the project, including design decisions, implement
 ---
 
  ## 🤝 Collaboration
-This project is a collaborative effort between me and **fatimazahrae03** . Both contributed to the design, development, and implementation of the Mancala game, ensuring a robust and enjoyable application.
+This project is a collaborative effort between me and  [@fatimazahrae03](https://github.com/fatimazahrae03). Both contributed to the design, development, and implementation of the Mancala game, ensuring a robust and enjoyable application.
 
 
 ---
